@@ -5,6 +5,6 @@
 Para rodar esse projeto na sua máquica, por favor digite:
 
 ...
-pip install
+Rodas código no python
 
 ...
