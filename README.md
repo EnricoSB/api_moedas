@@ -5,6 +5,6 @@
 Para rodar esse projeto na sua máquica, por favor digite:
 
 ...
-Rodas código no python
+Rodar código no python
 
 ...
